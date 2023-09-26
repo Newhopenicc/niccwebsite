@@ -1,0 +1,78 @@
+h1{color: rgb(255, 141, 59); text-align: center;
+    background-color: rgb(61, 0, 0);width:100%;font-size: 20px;}  
+    h2{color: white;margin-top: -365px;text-align: center;width:100%;height: px;font-size: 10px;margin-left: px;}
+    h3{color:rgb(255, 141, 59);font-size: 20px;width: 100%;height: 10px;text-align: center;margin-top:40px;}
+   h4{width:50%;font-size:12px;margin-top:-30px;margin-left: 55px;color: bisque;}
+    #niccfathers{width: 70%;margin-left:60px;margin-top:25px;}
+   body{background-color:black;margin:0px }
+   
+*{margin: 0px;padding: 0px;position: relatIVe;}
+    .blog img{width:100%;height:300px;position:relative;margin-top:15PX;}
+    .image2{width:50%;margin-bottom: 370px;margin-left: 100px;height: 190PX;}
+   #image3{margin-top:90px ;margin-left: 100px;width: 40%;height: 130px;animation-delay: 200s;}
+.one{color: rgb(9, 68, 196);margin-top:-290px;text-align: center;font-size: 29px;position: relative;}
+   
+   .two{color: rgb(91, 198, 231);position: relative;font-size: 14px;margin-top: 19px;;}
+   q{color: white;padding-left: 450px;font-size: 40px;position: relative;}
+   button{width: 50%;height: 5%;font-size: 15px;margin-left:100px;margin-top: -40px;color:rgb(174, 207, 207);background-color: rgb(127, 65, 184)}
+   
+   #pfath{color:rgb(220, 236, 250);font-size:15px;text-align: center;width: 100%;margin-top:10px;}
+   #niccmothers{width:70%;height: 190px;margin-left: 60px;margin-top: 20px;}
+   #pmoth{color:rgb(220, 236, 250);font-size:15px;width: 100%;text-align: center;margin-top: 10px;}
+   #niccyouth{width:70%;height: 190px;margin-left: 60px;margin-top: 20px;}
+   #pyouth{color:rgb(220, 236, 250);font-size:15px;width: 100%;text-align: center;margin-top: 10px;}
+   footer{background-color: rgb(2, 39, 50);height:300px;width:100%}
+   #fb{border-radius:50% ;width: 10%;margin-top: 60px; margin-left: 5;}
+   #youtube{width: 12%;border-radius:25%;margin-top: 45px;}
+   #ytbchanel{width:50%;font-size:12px;margin-top:-25px;margin-left: 65px;color: bisque;}
+   #massage1{margin-left:980px;}
+   #massage2{margin-left:980px; margin-top:300px ;}
+   #msgp{color:rgb(255, 141, 59); font-size: 25px;margin-left: 85px; width: 60%;margin-top: 10px; }
+#vid1{width: 60%;height: 140px;margin-top: 20px;margin-left: 80px;}
+#vid2{width: 60%;height: 140px;margin-top: 20px;margin-left: 80px;}
+   .veiwmore{color:rgb(106, 183, 255); font-size:20px;margin-left:80px; margin-top:20px;width:45%; }
+   #Container{width: 300PX;position: fixed; }
+  
+
+   @media only screen and (min-width:768PX) {#container{width: 768PX; margin: 0 auto;}
+   h1{width:100%;font-size: 30px;position:relative}  
+      h2{margin-top: -365px;text-align: center;width:100%;height: px;font-size: 20px;}
+      h3{font-size: 35px;width: 100%;height: 30px;margin-top:100px;}
+     h4{width:50%;font-size:17px;margin-top:-50px;margin-left: 85px;}
+      .blog img{width:100%;height:360px;position:relative;margin-top:15PX;}
+      .image2{width:50%;margin-bottom: 370px;margin-left: 200px;height: 390PX;}
+     #image3{margin-top:70px ;margin-left: 200px;width: 50%;height: 200px;}
+  .one{margin-top:-340px;text-align: center;font-size: 50px;position: relative;}
+     .two{position: relative;font-size: 14px;margin-top: 19px;font-size: 25px;}
+     q{color: white;padding-left: 450px;font-size: 40px;position: relative;}
+     button{width: 50%;height: 5%;font-size: 15px;margin-left:193px;margin-top: -40px;color:rgb(174, 207, 207);background-color: rgb(127, 65, 184)}
+     #niccfathers{width: 70%;margin-left:110px;margin-top:25px;}
+     #pfath{color:rgb(220, 236, 250);font-size:25px;text-align: center;width: 100%;margin-top:10px;}
+     #niccmothers{width:70%;height: 360px;margin-left: 110px;margin-top: 20px;}
+     #pmoth{color:rgb(220, 236, 250);font-size:25px;width: 100%;text-align: center;margin-top: 10px;}
+     #niccyouth{width:70%;height: 360px;margin-left: 110px;margin-top: 20px;}
+     #pyouth{color:rgb(220, 236, 250);font-size:25px;width: 100%;text-align: center;margin-top: 10px;}
+     footer{background-color: rgb(2, 39, 50);height:300px;width:100%}
+     #fb{border-radius:50% ;width: 10%;margin-top: 60px; margin-left: 5;}
+     #youtube{width: 12%;border-radius:25%;margin-top: 45px;}
+     #ytbchanel{width:50%;font-size:17px;margin-top:-37px;margin-left: 100px;color: bisque;}
+     #msgp{font-size: 35px;margin-left: 150px; width: 60%;margin-top: 80px; }
+  #vid1{width: 60%;height:250px;margin-top: 30px;margin-left: 150px;}
+  #vid2{width: 60%;height: 250px;margin-top: 30px;margin-left: 150px;}
+     .veiwmore{ font-size:30px;margin-left:150px;margin-top:20px;width:60%; } }
+   
+     @media only screen and (min-width:1024px){
+      #container{width:1024px; margin: 0 auto; }
+   h1{font-size: 30px;}  
+   h2{margin-left: -50px;}
+   button{width:400px;margin-left:260px;}
+   #image3{width: 300px;margin-left: 300px;}
+   .image2{width: 350px;margin-left: 290px;}
+#niccfathers{width: 500px;margin-left: 270px;}
+#niccmothers{width: 500px;margin-left: 270px;}
+#niccyouth{width: 500px;margin-left: 270px;}
+#fb{width: 60px;}
+h4{font-size: 15px;margin-top: -40px;margin-left: 70px;}
+#youtube{width: 85px;}
+
+}

@@ -1,0 +1,28 @@
+body{background-color: rgb(3, 21, 24);}
+.image1{width: 100%;}
+.image2{width:100%;}
+h1{color: rgb(174, 255, 255);width: 100%;font-size: 25px;}
+ul{color: azure; ;width: 90%;font-size: 25px ;margin-left:-10px ;}
+h2{color: rgb(174, 255, 255);width: 100%;font-size:px;}
+.ul1{color: azure;width: 90%;font-size:25px ;margin-left: -10px; }
+.IMAGE3{display: none;}
+#container{width:100%; margin: 0 auto;}
+@media only screen and (min-width:270px){
+   .image3 {display: none;}
+    #container{margin: 0 auto;width: 370px;}
+    .image1{width: 60%;margin-left: 60px;}
+    .image2{width: 60%;margin-left: 60px;margin-top: 30px;height: 370px;}
+    }
+*{margin: 0 auto;outline:1px solid red}
+@media only screen and (min-width:768px){
+.image1{width: 30%;margin-bottom: -20px;}
+.image2{width: 30%;margin-left: 482px;margin-top: -706px;}
+#container{margin: 0 auto;width: 768px;}
+}
+@media only screen and (min-width:1000px){
+    .image1{width: 20%;margin-bottom: -20px;}
+    .image2{width: 20%;margin-left: 472px;margin-top: -376px;}
+    .image3{display: flex;width: 24%;margin-left: 372px;margin-top: -376px;height: 380px;}
+    #container{margin: 0 auto;width:100% ;}
+    }
+    
